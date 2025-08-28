@@ -1,6 +1,8 @@
 # 🎵 Spotify Music Streaming Analysis – Power BI Dashboard
+
 ##📌Objective
 To analyze Spotify music dataset and uncover insights about tracks, artists, genres, and user listening trends using interactive Power BI dashboards.
+
 ##🎯Project Objective
 The goal of this project is to explore and analyze Spotify’s track data using Power BI.
 This dashboard helps to:
@@ -9,8 +11,10 @@ This dashboard helps to:
 •	Compare explicit vs non-explicit tracks.
 •	Understand audio features like danceability, energy, acousticness.
 •	Discover insights about track popularity trends.
+
 ##📂 Dataset Used
 [_dataset.csv](dataset.csv)
+
 ##❓ Questions Solved
 1.	How many total tracks, distinct artists, and albums are present?
 2.	What is the average popularity of tracks in the dataset?
@@ -18,6 +22,7 @@ This dashboard helps to:
 4.	What is the ratio of Explicit vs Non-Explicit tracks?
 5.	How do Danceability and Energy vary across genres?
 6.	Which genres show high acousticness vs high energy?
+   
 ## 📊 Key Insights from the Dashboard
 •	✅ Total Tracks: ~89.7K
 •	✅ Distinct Artists: ~31K
@@ -29,6 +34,7 @@ This dashboard helps to:
 o	EDM & Hip-Hop = High Energy & Danceability.
 o	Acoustic / Classical = High Acousticness, Low Energy.
 •	✅ Popularity is not directly linked with Energy — some calm songs are still very popular.
+
 📝 Conclusion
 •	The dataset highlights the diversity of Spotify’s music library with a wide range of genres and artists.
 •	Explicit songs form a small proportion compared to clean tracks.
