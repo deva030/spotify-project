@@ -23,7 +23,7 @@ The goal of this project is to explore and analyze Spotify’s track data using 
 
 Here’s a snapshot of the Power BI dashboard:
 
-![Dashboard Preview](Screenshot 2025-08-28 115618)
+![Dashboard Preview]("D:\Spotify project\Screenshot 2025-08-28 115618.png")
 
    
 ## 📊 Key Insights from the Dashboard  
