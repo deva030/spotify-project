@@ -18,12 +18,6 @@ The goal of this project is to explore and analyze Spotify’s track data using 
 4. What is the ratio of Explicit vs Non-Explicit tracks?  
 5. How do Danceability and Energy vary across genres?  
 6. Which genres show high acousticness vs high energy?
-
-## 📊 Dashboard Preview  
-
-Here’s a snapshot of the Power BI dashboard:
-![Dashboard Preview](images/Screenshot-2025-08-28-115618.png)
-
    
 ## 📊 Key Insights from the Dashboard  
 
