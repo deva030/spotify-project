@@ -1,29 +1,29 @@
 # 🎵 Spotify Music Streaming Analysis – Power BI Dashboard
 
-##📌Objective
-To analyze Spotify music dataset and uncover insights about tracks, artists, genres, and user listening trends using interactive Power BI dashboards.
+## 📌 Objective  
+To analyze Spotify music dataset and uncover insights about tracks, artists, genres, and user listening trends using interactive Power BI dashboards.  
 
-##🎯Project Objective
-The goal of this project is to explore and analyze Spotify’s track data using Power BI.
-This dashboard helps to:
-•	Analyze total number of tracks, albums, and artists.
-•	Identify top artists with the highest number of songs.
-•	Compare explicit vs non-explicit tracks.
-•	Understand audio features like danceability, energy, acousticness.
-•	Discover insights about track popularity trends.
+## 🎯 Project Objective  
+The goal of this project is to explore and analyze Spotify’s track data using Power BI. This dashboard helps to:  
+- Analyze total number of tracks, albums, and artists.  
+- Identify top artists with the highest number of songs.  
+- Compare explicit vs non-explicit tracks.  
+- Understand audio features like danceability, energy, acousticness.  
+- Discover insights about track popularity trends.  
 
-##📂 Dataset Used
-[_dataset.csv](dataset.csv)
+## 📂 Dataset Used  
+[Spotify Dataset](dataset/spotify_dataset.xlsx)  
 
-##❓ Questions Solved
-1.	How many total tracks, distinct artists, and albums are present?
-2.	What is the average popularity of tracks in the dataset?
-3.	Who are the Top 10 artists with maximum tracks?
-4.	What is the ratio of Explicit vs Non-Explicit tracks?
-5.	How do Danceability and Energy vary across genres?
-6.	Which genres show high acousticness vs high energy?
+## ❓ Questions Solved  
+1. How many total tracks, distinct artists, and albums are present?  
+2. What is the average popularity of tracks in the dataset?  
+3. Who are the Top 10 artists with maximum tracks?  
+4. What is the ratio of Explicit vs Non-Explicit tracks?  
+5. How do Danceability and Energy vary across genres?  
+6. Which genres show high acousticness vs high energy?  
+
    
-## 📊 Key Insights from the Dashboard
+##  📊 Key Insights from the Dashboard
 •	✅ Total Tracks: ~89.7K
 •	✅ Distinct Artists: ~31K
 •	✅ Distinct Albums: ~46K
