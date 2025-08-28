@@ -11,9 +11,6 @@ The goal of this project is to explore and analyze Spotify’s track data using 
 - Understand audio features like danceability, energy, acousticness.  
 - Discover insights about track popularity trends.  
 
-## 📂 Dataset Used  
-[Spotify Dataset](dataset/spotify_dataset.xlsx)  
-
 ## ❓ Questions Solved  
 1. How many total tracks, distinct artists, and albums are present?  
 2. What is the average popularity of tracks in the dataset?  
@@ -23,22 +20,24 @@ The goal of this project is to explore and analyze Spotify’s track data using 
 6. Which genres show high acousticness vs high energy?  
 
    
-##  📊 Key Insights from the Dashboard
-•	✅ Total Tracks: ~89.7K
-•	✅ Distinct Artists: ~31K
-•	✅ Distinct Albums: ~46K
-•	✅ Average Popularity: ~33/100 (most tracks moderately popular).
-•	✅ Top Artists include Linkin Park, Eminem, Pink Floyd, etc.
-•	✅ Only 8.5% of tracks are explicit, majority are non-explicit.
-•	✅ Danceability vs Energy analysis shows:
-o	EDM & Hip-Hop = High Energy & Danceability.
-o	Acoustic / Classical = High Acousticness, Low Energy.
-•	✅ Popularity is not directly linked with Energy — some calm songs are still very popular.
+## 📊 Key Insights from the Dashboard  
 
-📝 Conclusion
-•	The dataset highlights the diversity of Spotify’s music library with a wide range of genres and artists.
-•	Explicit songs form a small proportion compared to clean tracks.
-•	Audio features help in understanding listener preferences — energetic tracks dominate charts, but acoustic tracks still perform well.
-•	This interactive Power BI dashboard can be used by music analysts, producers, or listeners to explore music insights.
+- ✅ **Total Tracks:** ~89.7K  
+- ✅ **Distinct Artists:** ~31K  
+- ✅ **Distinct Albums:** ~46K  
+- ✅ **Average Popularity:** ~33/100 (most tracks moderately popular)  
+- ✅ **Top Artists:** Linkin Park, Eminem, Pink Floyd, etc.  
+- ✅ **Explicit vs Non-Explicit:** Only 8.5% of tracks are explicit; majority are clean.  
+- ✅ **Danceability vs Energy Analysis:**  
+  - EDM & Hip-Hop → High Energy + Danceability  
+  - Acoustic / Classical → High Acousticness, Low Energy  
+- ✅ **Popularity vs Energy:** Popularity is not always linked with Energy — calm songs can also be very popular.  
+
+## 📝 Conclusion  
+- The dataset highlights the diversity of Spotify’s music library with a wide range of genres and artists.  
+- Explicit songs form a small proportion compared to clean tracks.  
+- Audio features help in understanding listener preferences: energetic tracks dominate charts, but acoustic tracks still perform well.  
+- This interactive Power BI dashboard can be used by music analysts, producers, or listeners to explore music insights.  
+
 
 
