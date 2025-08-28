@@ -18,7 +18,12 @@ The goal of this project is to explore and analyze Spotify’s track data using 
 4. What is the ratio of Explicit vs Non-Explicit tracks?  
 5. How do Danceability and Energy vary across genres?  
 6. Which genres show high acousticness vs high energy?
-   
+
+## 📊 Dashboard Preview
+
+   <img width="767" height="427" alt="Image" src="https://github.com/user-attachments/assets/f8b64081-a637-4b34-ab1c-a413966905ac" />
+
+
 ## 📊 Key Insights from the Dashboard  
 
 - ✅ **Total Tracks:** ~89.7K  
